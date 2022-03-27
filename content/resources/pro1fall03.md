@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a3e09c41-816b-5958-9877-a21f77adc925
 resourcetype: Document
 title: 'Project 1: Floppy and Sturdy, Skins and Structures'
 uid: bb8aa84a-502c-1e66-8929-691aaa961717

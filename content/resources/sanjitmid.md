@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f621c01b-103e-1f74-d112-850044da1541
 resourcetype: Document
 title: Student Work from the Midterm
 uid: c2503515-c5b5-4bc3-b25b-f8e4a7127fbc
