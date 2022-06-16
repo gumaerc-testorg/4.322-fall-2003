@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides and introduction to the course and information
+  on meeting times, requirements, evaluations, safety, and lab fees.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
