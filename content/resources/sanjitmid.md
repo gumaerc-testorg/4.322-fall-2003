@@ -5,6 +5,7 @@ file: /courses/4-322-introduction-to-sculpture-fall-2003/c2503515c5b54bc3b25bf8e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Student Work from the Midterm
 uid: c2503515-c5b5-4bc3-b25b-f8e4a7127fbc
 ---
 Examples of student work on sculptural projects for the course.
-

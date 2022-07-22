@@ -6,6 +6,7 @@ file: /courses/4-322-introduction-to-sculpture-fall-2003/bb8aa84a502c1e668929691
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Project 1: Floppy and Sturdy, Skins and Structures'
 uid: bb8aa84a-502c-1e66-8929-691aaa961717
 ---
 Details on an assignment to create sculpture that explores the relationship between structures and skins through the basic dichotomy of hard and soft. 
-
