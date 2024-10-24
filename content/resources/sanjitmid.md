@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Examples of student work on sculptural projects for the course.
-file: /courses/4-322-introduction-to-sculpture-fall-2003/c2503515c5b54bc3b25bf8e4a7127fbc_sanjitmid.pdf
+file: /ol-ocw-studio-app/courses/4-322-introduction-to-sculpture-fall-2003/c2503515c5b54bc3b25bf8e4a7127fbc_sanjitmid.pdf
 file_size: 228007
 file_type: application/pdf
 learning_resource_types:
