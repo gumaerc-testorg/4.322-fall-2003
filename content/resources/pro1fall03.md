@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Details on an assignment to create sculpture that explores the relationship
   between structures and skins through the basic dichotomy of hard and soft. '
-file: /courses/4-322-introduction-to-sculpture-fall-2003/bb8aa84a502c1e668929691aaa961717_pro1fall03.pdf
+file: /ol-ocw-studio-app/courses/4-322-introduction-to-sculpture-fall-2003/bb8aa84a502c1e668929691aaa961717_pro1fall03.pdf
 file_size: 15362
 file_type: application/pdf
 learning_resource_types:
